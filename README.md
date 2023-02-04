@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, e gosto muito de estudar e aprender cada vez mais
 
 ### Projetos rodando. 
 
-- [Relogio](https://clockweek.netlify.app/) desenvolvido em pair programing com a<a href="https://github.com/fanylouise" target="_blank"> Fany Louise </a>
+- [Relogio](https://clockweek.netlify.app/) desenvolvido em pair programing com a [Fany Louise](https://github.com/fanylouise)
 
 - [Calendário](https://calendario-almoco.vercel.app/) para organizar o almoço dos missionários da minha igreja, que anteriormente era feito a mão com papel e caneta, que demorava uns 20min agora em menos de 3min já está com o calendário pronto. Tive apoio do [Antonio Lourenço](https://github.com/AntonioLourencos) (esse projeto esta em sua versão 1.0 em MVP). 
 
