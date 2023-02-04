@@ -12,10 +12,10 @@ Sou apaixonado por tecnologia, e gosto muito de estudar e aprender cada vez mais
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <div/><br />
 
-###Projetos rodando. 
+### Projetos rodando. 
 
-Um relógio desenvolvido em pair programing https://clockweek.netlify.app/ 
+- [Relogio](https://clockweek.netlify.app/) desenvolvido em pair programing com a [Fany Louise](https://github.com/fanylouise) 
 
-Calendário para organizar o almoço dos missionários da minha igreja, que anteriormente era feito a mão com papel e caneta, que demorava uns 20min agora em menos de 3min já está com o calendário pronto. https://calendario-almoco.vercel.app/  
+- [Calendário](https://calendario-almoco.vercel.app/) para organizar o almoço dos missionários da minha igreja, que anteriormente era feito a mão com papel e caneta, que demorava uns 20min agora em menos de 3min já está com o calendário pronto. Tive apoio do [Antonio Lourenço](https://github.com/AntonioLourencos) (esse projeto esta em sua versão 1.0 em MVP). 
 
  
